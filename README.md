@@ -23,7 +23,7 @@ $ pip install mechanize
 $ pkg install git
 $ pip install bs4
 $ pip install rich
-$ rm -rf Pro-Cloner
+$ rm -rf darkhuntr
 $ git clone https://github.com/$ pkg update
 $ pkg upgrade
 $ pkg install python
@@ -34,7 +34,7 @@ $ pkg install git
 $ pip install bs4
 $ pip install rich
 $ rm -rf darkhuntr
-$ git clone https://github.com/darkhuntr.git
+$ git clone https://github.com/darkhuntr
 $ cd darkhuntr 
 $ python huntr.py
 
