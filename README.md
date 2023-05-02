@@ -1,5 +1,5 @@
 # darkhuntr
-<b></b>[![Facebook](https://img.shields.io/badge/Facebook-Dark WEB-blue?style=flat-square&logo=facebook)](https://www.https://www.facebook.com/TheLostDevilKing?mibextid=ZbWKwL)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-Dark Web-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/IulgtTY1ao6H)
+<b></b>[![Facebook](https://img.shields.io/badge/Facebook-Dark WEB-blue?style=flat-square&logo=facebook)](https://www.https://www.facebook.com/TheLostDevilKing?mibextid=ZbWKwL)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-Dark Web-blue?style=flat-square&logo=WhatsApp)]
 
 <h1 align="center"> ERROR PROBLEM FIXED </h1>
 
